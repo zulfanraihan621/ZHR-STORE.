@@ -103,3 +103,15 @@ footer {
     background: #020617;
     color: #94a3b8;
 }
+
+.price {
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    color: #22c55e;
+}
+
+.section.dark .price {
+    color: #4ade80;
+}
